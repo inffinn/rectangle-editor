@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 320" style="enable-background:new 0 0 640 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AFAFAF;}
+	.st1{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g id="Слой_2">
+</g>
+<g id="Слой_1">
+</g>
+<g id="Слой_3">
+	<g id="XMLID_4_">
+		<g>
+			<rect x="77.5" y="43.5" class="st0" width="498" height="221"/>
+		</g>
+		<g>
+			<rect x="77.5" y="43.5" class="st1" width="498" height="221"/>
+		</g>
+	</g>
+	<g>
+		<g id="XMLID_3_">
+			<g>
+				<polygon class="st2" points="292.8,88.5 489.4,132.3 437.9,173.6 510.9,211.7 477.4,254 418.8,197.8 390,257.7 				"/>
+			</g>
+			<g>
+				<line class="st1" x1="292.8" y1="88.5" x2="390" y2="257.7"/>
+				<line class="st1" x1="292.8" y1="88.5" x2="489.4" y2="132.3"/>
+				<line class="st1" x1="390" y1="257.7" x2="418.8" y2="197.8"/>
+				<line class="st1" x1="489.4" y1="132.3" x2="437.9" y2="173.6"/>
+				<line class="st1" x1="437.9" y1="173.6" x2="510.9" y2="211.7"/>
+				<line class="st1" x1="418.8" y1="197.8" x2="477.4" y2="254"/>
+				<line class="st1" x1="510.9" y1="211.7" x2="477.4" y2="254"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
